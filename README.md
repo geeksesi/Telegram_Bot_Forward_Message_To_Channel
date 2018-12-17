@@ -16,7 +16,7 @@ a simple telegram bot...can forward  group or private message to a channel
 
 - Step 3 :
     Make new bot on BotFather and copy Bot Token and pase in bot.php Line 10 replace to :
-            <code> ! ! Bot_Token_here ! ! </code>
+            <code>TOKEN_PLEASE</code>
 
 
 - Step 4 :
